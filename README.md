@@ -35,7 +35,7 @@ This project presents an interactive Power BI dashboard exploring regional food 
 
 ## 📈 Sample Dashboard View
 
-`/images/1_main.jpg`
+![Dashboard Overview](images/1_main.jpg)
 
 ## 👤 Author
 
